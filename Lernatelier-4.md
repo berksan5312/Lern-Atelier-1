@@ -19,11 +19,11 @@ Ausserdem habe ich an der Funktion zur Lebensmittelerfassung weitergearbeitet. Z
 
 **Planung nächster Arbeitstag (19.06.2026):**
 
-* [ x] Funktion zum Speichern von Lebensmitteln mit Nährwerten pro 100 g fertigstellen
+* [x] Funktion zum Speichern von Lebensmitteln mit Nährwerten pro 100 g fertigstellen
 * [ ] Berechnung für beliebige Mengen (z.B. 300 g Pouletbrust) implementieren
 * [ ] Kalorien, Protein, Kohlenhydrate und Fett automatisch berechnen lassen
-* [ x] Eingabemaske für neue Lebensmittel verbessern
-* [ x] Funktion testen und mögliche Fehler beheben
+* [x] Eingabemaske für neue Lebensmittel verbessern
+* [x] Funktion testen und mögliche Fehler beheben
 
 
 ## 19.06.2026
