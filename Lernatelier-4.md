@@ -19,8 +19,40 @@ Ausserdem habe ich an der Funktion zur Lebensmittelerfassung weitergearbeitet. Z
 
 **Planung nächster Arbeitstag (19.06.2026):**
 
-* [ ] Funktion zum Speichern von Lebensmitteln mit Nährwerten pro 100 g fertigstellen
+* [ x] Funktion zum Speichern von Lebensmitteln mit Nährwerten pro 100 g fertigstellen
 * [ ] Berechnung für beliebige Mengen (z.B. 300 g Pouletbrust) implementieren
 * [ ] Kalorien, Protein, Kohlenhydrate und Fett automatisch berechnen lassen
-* [ ] Eingabemaske für neue Lebensmittel verbessern
-* [ ] Funktion testen und mögliche Fehler beheben
+* [ x] Eingabemaske für neue Lebensmittel verbessern
+* [ x] Funktion testen und mögliche Fehler beheben
+
+
+## 19.06.2026
+
+**Arbeitszeit:** 07:35 Uhr – 11:30 Uhr
+
+**Pausen:**
+
+* 08:50 Uhr – 09:00 Uhr
+* 10:00 Uhr – 10:10 Uhr
+* 11:00 Uhr – 11:10 Uhr
+
+### Tätigkeiten
+
+Heute habe ich weiter an meiner Kalorien-Tracker-Webseite gearbeitet. Der Schwerpunkt lag auf der Implementierung der Nährwertberechnung anhand von Angaben pro 100 Gramm. Diese Funktion war anspruchsvoller als erwartet und hat viel Zeit in Anspruch genommen. Ich konnte die Berechnung erfolgreich umsetzen, sodass Lebensmittel nun anhand ihrer Nährwerte pro 100 g erfasst werden können.
+
+Zusätzlich habe ich begonnen, eine automatische Makronährstoffberechnung zu entwickeln. Ziel ist es, dass Kalorien, Protein, Kohlenhydrate und Fett automatisch anhand der eingegebenen Lebensmittelmenge berechnet und angezeigt werden.
+
+### Erledigte Arbeitspakete
+
+* [x] Nährwertangaben pro 100 g implementiert
+* [x] Eingabemöglichkeit für Lebensmittel erweitert
+* [x] Berechnungslogik für unterschiedliche Mengen vorbereitet
+* [x] Fehler gesucht und behoben
+
+### Planung 26.06.2026
+
+* [ ] Automatische Berechnung der Makronährstoffe fertigstellen
+* [ ] Anzeige der berechneten Makros verbessern
+* [ ] Funktion mit verschiedenen Lebensmitteln testen
+* [ ] Fehler beheben und Code optimieren
+* [ ] Benutzeroberfläche weiter verbessern
