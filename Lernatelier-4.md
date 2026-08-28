@@ -51,8 +51,49 @@ Zusätzlich habe ich begonnen, eine automatische Makronährstoffberechnung zu en
 
 ### Planung 26.06.2026
 
-* [ ] Automatische Berechnung der Makronährstoffe fertigstellen
-* [ ] Anzeige der berechneten Makros verbessern
-* [ ] Funktion mit verschiedenen Lebensmitteln testen
-* [ ] Fehler beheben und Code optimieren
-* [ ] Benutzeroberfläche weiter verbessern
+* [ x] Automatische Berechnung der Makronährstoffe fertigstellen
+* [x ] Anzeige der berechneten Makros verbessern
+* [ x] Funktion mit verschiedenen Lebensmitteln testen
+* [ x] Fehler beheben und Code optimieren
+* [ x] Benutzeroberfläche weiter verbessern
+
+* ## 28.08.2026
+
+### Grobplanung
+
+* [x] Noten und bisherigen Lernstand dokumentiert
+* [x] Veränderungen und Fortschritte dokumentiert
+* [x] Projekte und bisherige Arbeiten dokumentiert
+* [x] Persönliche Ziele für die Lernperiode dokumentiert
+
+### Arbeitszeit
+
+**Arbeitsbeginn:** 07:30 Uhr
+**Arbeitsende:** 11:42 Uhr
+
+**Pausen:**
+
+* 09:20 Uhr – 09:30 Uhr
+* 10:15 Uhr – 10:35 Uhr
+
+### Arbeitspakete
+
+* [x] Lernatelier-Dokumentation überarbeitet und übersichtlicher gestaltet
+* [x] Kalorien-Tracker-Webseite mit CSS optisch verbessert
+* [x] Modul 431 fertiggestellt
+* [x] Überarbeitete Webseite und Dokumentation getestet
+
+### Tagesbericht
+
+Heute habe ich weiter an meiner Kalorien-Tracker-Webseite gearbeitet. Dabei habe ich **CSS verwendet, um die Webseite schöner und übersichtlicher zu gestalten**. Die Änderungen haben gut funktioniert und die Webseite sieht dadurch ansprechender aus.
+
+Zusätzlich habe ich heute das **Modul 431 fertiggestellt** und meine Lernatelier-Dokumentation überarbeitet und verbessert.
+
+### Nächste Schritte
+
+* [ ] Kalorien-Tracker-Webseite fertigstellen
+* [ ] Eine ausführliche Dokumentation zur Kalorien-Tracker-Webseite erstellen
+* [ ] Funktionen der Webseite nochmals testen und letzte Verbesserungen vornehmen
+* [ ] Nach Abschluss des Projekts mit einem neuen Projekt beginnen
+* [ ] Als nächstes Projekt voraussichtlich mit **C# im Zusammenhang mit Modul 319** arbeiten
+
