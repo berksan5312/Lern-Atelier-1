@@ -92,8 +92,42 @@ Zusätzlich habe ich heute das **Modul 431 fertiggestellt** und meine Lernatelie
 ### Nächste Schritte
 
 * [ ] Kalorien-Tracker-Webseite fertigstellen
-* [ ] Eine ausführliche Dokumentation zur Kalorien-Tracker-Webseite erstellen
-* [ ] Funktionen der Webseite nochmals testen und letzte Verbesserungen vornehmen
+* [x ] Eine ausführliche Dokumentation zur Kalorien-Tracker-Webseite erstellen
+* [x ] Funktionen der Webseite nochmals testen und letzte Verbesserungen vornehmen
 * [ ] Nach Abschluss des Projekts mit einem neuen Projekt beginnen
 * [ ] Als nächstes Projekt voraussichtlich mit **C# im Zusammenhang mit Modul 319** arbeiten
+
+## 04.09.2026
+
+### Arbeitszeit
+
+**Arbeitsbeginn:** 07:30 Uhr
+**Arbeitsende:** 11:40 Uhr
+
+**Pausen:**
+
+* 09:10 Uhr – 09:30 Uhr
+* 10:05 Uhr – 10:15 Uhr
+
+### Arbeitspakete
+
+* [x] Kalorien-Tracker-Webseite weiterentwickeln
+* [x] Design und Darstellung der Webseite verbessern
+* [x] Speicherung von Lebensmitteln mit Nährwerten pro 100 g weiterentwickeln
+* [x] Speicherung der konsumierten Lebensmittel und Kalorien verbessern
+
+### Tagesbericht
+
+Heute habe ich weiter an meiner Kalorien-Tracker-Webseite gearbeitet. Die Webseite ist mittlerweile fast fertig. Ich habe weitere Verbesserungen an der Speicherung von Kalorien und den gespeicherten Lebensmitteln vorgenommen. Dabei soll es möglich sein, Lebensmittel mit ihren Nährwerten pro 100 g zu speichern und diese später für die Berechnung der konsumierten Menge zu verwenden.
+
+Zusätzlich habe ich weitere Verbesserungen an der Webseite vorgenommen, damit sie übersichtlicher und benutzerfreundlicher funktioniert.
+
+### Planung nächster Arbeitstag – 11.09.2026
+
+* [ ] Letzte Verbesserungen an der Kalorien-Tracker-Webseite durchführen und die Webseite fertigstellen
+* [ ] Dokumentation zur Kalorien-Tracker-Webseite erstellen und fertigstellen
+* [ ] Webseite und Funktionen abschliessend testen
+* [ ] Eine Idee für ein neues C#-Projekt im Zusammenhang mit Modul 319 finden
+* [ ] Nach Abschluss der Dokumentation mit der Umsetzung des neuen C#-Projekts beginnen
+
 
