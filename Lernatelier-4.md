@@ -124,10 +124,46 @@ Zusätzlich habe ich weitere Verbesserungen an der Webseite vorgenommen, damit s
 
 ### Planung nächster Arbeitstag – 11.09.2026
 
-* [ ] Letzte Verbesserungen an der Kalorien-Tracker-Webseite durchführen und die Webseite fertigstellen
-* [ ] Dokumentation zur Kalorien-Tracker-Webseite erstellen und fertigstellen
-* [ ] Webseite und Funktionen abschliessend testen
+* [x ] Letzte Verbesserungen an der Kalorien-Tracker-Webseite durchführen und die Webseite fertigstellen
+* [x ] Dokumentation zur Kalorien-Tracker-Webseite erstellen und fertigstellen
+* [ x] Webseite und Funktionen abschliessend testen
 * [ ] Eine Idee für ein neues C#-Projekt im Zusammenhang mit Modul 319 finden
 * [ ] Nach Abschluss der Dokumentation mit der Umsetzung des neuen C#-Projekts beginnen
+
+## 11.09.2026
+
+### Arbeitszeit
+
+**Arbeitsbeginn:** 07:30 Uhr
+**Arbeitsende:** 11:42 Uhr
+
+**Pausen:**
+
+* 08:50 Uhr – 09:00 Uhr
+* 10:20 Uhr – 10:40 Uhr
+
+### Arbeitspakete
+
+* [x] Kalorien-Tracker-Webseite fertigstellen
+* [x] Speicherung der Lebensmittel und Nährwerte pro 100 g fertigstellen
+* [x] Kalorien-Tracker abschliessend testen
+* [x] Nächste Weiterentwicklung des Projekts planen
+
+### Tagesbericht
+
+Heute habe ich meinen Kalorien-Tracker fertiggestellt. Die Webseite ist nun grundsätzlich fertig und die wichtigsten Funktionen funktionieren. Ich bin mit dem Ergebnis zwar noch nicht ganz zufrieden, aber das Projekt kommt meinen Vorstellungen immer näher.
+
+Anstatt direkt mit einem neuen C#-Projekt zu beginnen, habe ich die Rückmeldung von Herrn Schmid aufgenommen und mich dazu entschieden, für meinen bestehenden Kalorien-Tracker ein **Backend mit C#** zu entwickeln. Dadurch möchte ich die Daten des Projekts über eine Datenbank speichern können. Dazu gehören unter anderem die gespeicherten Lebensmittel, deren Nährwerte pro 100 g und die eingetragenen Kalorien.
+
+Nach der Fertigstellung des Backends möchte ich entscheiden, ob ich anschliessend ein weiteres Projekt mit C# umsetze oder mich wieder mit einer Webseite beziehungsweise mit SQL beschäftige.
+
+### Planung nächster Arbeitstag - 18.09.2026
+
+* [ ] C#-Backend für den Kalorien-Tracker planen und Grundstruktur erstellen
+* [ ] Verbindung zwischen Backend und Datenbank aufbauen
+* [ ] Speicherung der Lebensmittel und Nährwerte in der Datenbank umsetzen
+* [ ] Speichern der Kalorien- und Ernährungsdaten über das Backend ermöglichen
+* [ ] Nach Abschluss des Backends ein neues Projekt auswählen und die Dokumentation entsprechend anpassen
+
 
 
