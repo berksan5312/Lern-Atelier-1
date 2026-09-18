@@ -159,11 +159,44 @@ Nach der Fertigstellung des Backends möchte ich entscheiden, ob ich anschliesse
 
 ### Planung nächster Arbeitstag - 18.09.2026
 
-* [ ] C#-Backend für den Kalorien-Tracker planen und Grundstruktur erstellen
-* [ ] Verbindung zwischen Backend und Datenbank aufbauen
+* [ x] C#-Backend für den Kalorien-Tracker planen und Grundstruktur erstellen
+* [x ] Verbindung zwischen Backend und Datenbank aufbauen
 * [ ] Speicherung der Lebensmittel und Nährwerte in der Datenbank umsetzen
 * [ ] Speichern der Kalorien- und Ernährungsdaten über das Backend ermöglichen
 * [ ] Nach Abschluss des Backends ein neues Projekt auswählen und die Dokumentation entsprechend anpassen
+
+## 18.09.2026
+
+### Arbeitszeit
+
+**Arbeitsbeginn:** 09:20 Uhr
+**Arbeitsende:** 11:40 Uhr
+
+**Pause:** Keine Pause
+
+**Besonderes:** 10:00 Uhr – 10:25 Uhr Gespräch mit Herrn Meyer
+
+### Arbeitspakete
+
+* [x] C#-Backend für den Kalorien-Tracker fertigstellen
+* [x] Backend auf einer separaten Seite überprüfen
+* [x] Quelltext und Formatierung des Backends kontrollieren
+* [ ] Fehler bei der Speicherung auf der normalen Webseite untersuchen und beheben
+
+### Tagesbericht
+
+Heute habe ich von 09:20 Uhr bis 11:40 Uhr am Kalorien-Tracker weitergearbeitet. Um 10:00 Uhr hatte ich ein Gespräch mit Herrn Meyer, das bis 10:25 Uhr gedauert hat. Da ich insgesamt nur kurz gearbeitet habe, habe ich heute keine zusätzliche Pause gemacht.
+
+Das **C#-Backend habe ich fertiggestellt** und auf einer separaten Seite überprüft. Dort kann ich momentan den Quelltext und die Formatierung sehen. Allerdings gibt es noch ein Problem mit der normalen Webseite: Ich kann zwar Daten eingeben, aber sie werden momentan nicht richtig gespeichert. Dadurch kann ich noch nicht vollständig überprüfen, ob das Backend korrekt mit der Webseite funktioniert.
+
+### Planung nächster Arbeitstag - 25.09.2026
+
+* [ ] Fehler bei der Speicherung auf der normalen Webseite finden und beheben
+* [ ] Verbindung zwischen Webseite, C#-Backend und Datenbank testen
+* [ ] Überprüfen, ob Lebensmittel und Nährwerte korrekt gespeichert werden
+* [ ] Funktion des gesamten Projekts abschliessend testen
+* [ ] Dokumentation des Projekts fertigstellen und anschliessend ein neues Projekt beginnen oder mit Modul 320 weiterarbeiten
+
 
 
 
