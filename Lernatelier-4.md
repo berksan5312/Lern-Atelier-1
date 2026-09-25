@@ -191,11 +191,44 @@ Das **C#-Backend habe ich fertiggestellt** und auf einer separaten Seite überpr
 
 ### Planung nächster Arbeitstag - 25.09.2026
 
-* [ ] Fehler bei der Speicherung auf der normalen Webseite finden und beheben
-* [ ] Verbindung zwischen Webseite, C#-Backend und Datenbank testen
-* [ ] Überprüfen, ob Lebensmittel und Nährwerte korrekt gespeichert werden
-* [ ] Funktion des gesamten Projekts abschliessend testen
-* [ ] Dokumentation des Projekts fertigstellen und anschliessend ein neues Projekt beginnen oder mit Modul 320 weiterarbeiten
+* [ x] Fehler bei der Speicherung auf der normalen Webseite finden und beheben
+* [ x] Verbindung zwischen Webseite, C#-Backend und Datenbank testen
+* [x ] Überprüfen, ob Lebensmittel und Nährwerte korrekt gespeichert werden
+* [x ] Funktion des gesamten Projekts abschliessend testen
+* [x ] Dokumentation des Projekts fertigstellen und anschliessend ein neues Projekt beginnen oder mit Modul 320 weiterarbeiten
+
+## 25.09.2026
+
+### Arbeitszeit
+
+**Arbeitsbeginn:** 10:10 Uhr
+**Arbeitsende:** 11:40 Uhr
+
+**Pause:** Keine Pause
+
+### Arbeitspakete
+
+* [x] Mit Modul 320 beginnen
+* [x] Fehler bei der Speicherung des Kalorien-Trackers beheben
+* [x] C#-Programmierung für das Backend weiterführen
+* [ ] SQL-Datenbank als Backend für den Kalorien-Tracker erstellen
+
+### Tagesbericht
+
+Heute habe ich von 10:10 Uhr bis 11:40 Uhr am Projekt gearbeitet. Nachdem ich bereits am Mittwoch mit **Modul 320** begonnen habe, habe ich heute daran weitergearbeitet.
+
+Zusätzlich habe ich die Probleme mit der Speicherung aus der letzten Lernatelier-Session behoben. Die Webseite kann die Daten nun wieder speichern, sodass ich das Projekt besser testen und weiterentwickeln kann.
+
+Danach habe ich mit der Programmierung des Backends in **C#** begonnen. Als nächsten Schritt möchte ich zusätzlich eine **SQL-Datenbank** erstellen, in der die Daten des Kalorien-Trackers gespeichert werden. Dadurch soll das Projekt langfristig über ein richtiges Backend mit Datenbank funktionieren.
+
+### Planung nächster Arbeitstag
+
+* [ ] SQL-Datenbank für den Kalorien-Tracker erstellen
+* [ ] Verbindung zwischen C#-Backend und SQL-Datenbank herstellen
+* [ ] Speicherung der Lebensmittel und Nährwerte über die Datenbank testen
+* [ ] Daten aus der Webseite über das Backend in der Datenbank speichern
+* [ ] Modul 320 weiterbearbeiten
+
 
 
 
